@@ -202,7 +202,9 @@
   .browser-bar .url{
     margin-left:8px;flex:1;font-family:var(--font-m);font-size:.62rem;color:var(--slate);
     background:var(--white);border-radius:5px;padding:3px 8px;border:1px solid var(--line);
+    display:flex;align-items:center;gap:5px;
   }
+  .browser-bar .url svg{width:10px;height:10px;flex-shrink:0;stroke:var(--slate);}
   .browser-body{padding:16px;}
   .speed-score{display:flex;align-items:center;gap:12px;margin-bottom:10px;}
   .speed-score .ring{
@@ -289,6 +291,7 @@
   .device-mock .browser-bar{background:rgba(255,255,255,.06);border-bottom-color:rgba(255,255,255,.08);}
   .device-mock .browser-bar i{background:rgba(255,255,255,.2);}
   .device-mock .browser-bar .url{background:rgba(255,255,255,.06);color:rgba(255,255,255,.6);border-color:rgba(255,255,255,.1);}
+  .device-mock .browser-bar .url svg{stroke:rgba(255,255,255,.6);}
   .device-mock .browser-body{background:var(--white);border-radius:0 0 12px 12px;}
 
 /* ---------- SOCIAL SECTION ---------- */
@@ -619,7 +622,7 @@
 
       <div class="reveal">
         <div class="device-mock">
-          <div class="browser-bar"><i></i><i></i><i></i><span class="url">webnool.com/yourbusiness</span></div>
+          <div class="browser-bar"><i></i><i></i><i></i><span class="url"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V7a4 4 0 018 0v4"/></svg>webnool.com/yourbusiness</span></div>
           <div class="browser-body" style="padding:22px;">
             <div class="speed-score" style="margin-bottom:16px;">
               <div class="ring"><span>98</span></div>
