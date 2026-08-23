@@ -1,1 +1,38 @@
+# Webnool
 
+> Webnool designs and builds fast, single-page websites and landing pages for small businesses across Kerala — engineered for speed, SEO, and WhatsApp/Instagram integration.
+
+## About
+- Webnool is a website studio based in Kerala, India, building landing pages and single-page websites for small and local businesses.
+- Tagline: "Design. Develop. Grow."
+- Process: Discover, Design, Build, Launch, Grow. See [Process](https://webnool.com/#process).
+
+## Services
+- [Landing Pages](https://webnool.com/#services): High-converting pages built around a single goal — a booking, a call, or a sale.
+- [Single-Page Websites](https://webnool.com/#services): A full business site — about, services, gallery, contact — in one scroll.
+- [SEO Optimization](https://webnool.com/#services): Clean headings, structured data, and search-ready copy.
+- [Page Speed](https://webnool.com/#speed): Lean, hand-built pages targeting sub-1s load times.
+- [Social Media Integration](https://webnool.com/#social): WhatsApp click-to-chat and an Instagram follow button, built into every page.
+- [Care & Updates](https://webnool.com/#services): Ongoing content changes and small fixes after launch.
+
+## Service area
+Webnool serves businesses across all 14 districts of Kerala, India, including:
+- Thiruvananthapuram (Thiruvananthapuram district)
+- Kollam (Kollam district)
+- Thiruvalla (Pathanamthitta district)
+- Alappuzha (Alappuzha district)
+- Kottayam (Kottayam district)
+- Thodupuzha (Idukki district)
+- Kochi (Ernakulam district)
+- Thrissur (Thrissur district)
+- Palakkad (Palakkad district)
+- Malappuram (Malappuram district)
+- Kozhikode (Kozhikode district)
+- Kalpetta (Wayanad district)
+- Kannur (Kannur district)
+- Kasaragod (Kasaragod district)
+
+## Contact
+- WhatsApp: https://wa.me/919895499720
+- Email: webnool34@gmail.com
+- Instagram: https://instagram.com/webnool
